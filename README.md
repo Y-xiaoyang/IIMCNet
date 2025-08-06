@@ -1,6 +1,6 @@
 # IIMCNet: Intra- and Inter-modality Correlation Network for Hybrid EEG-fNIRS Brain-Computer Interface [[📄 Paper Link]](https://ieeexplore.ieee.org/document/11106748)
 ### Xiaoyang Yuan, Yan Zhang, Peter Rolfe, IEEE Journal of Biomedical and Health Informatics 2025. 
-![Overall structure](https://github.com/Y-xiaoyang/IIMCNet/blob/main/Structure.tif)
+![Overall structure](https://github.com/Y-xiaoyang/IIMCNet/blob/main/Structure.pdf)
 
 # Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
